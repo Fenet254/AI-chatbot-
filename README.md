@@ -24,5 +24,32 @@ cd AI-chatbot-
 - Install dependencies
 pip install -r requirements.txt
 - Train your model Make sure your dataset is formatted correctly (CSV with input/output pairs), then run:
+- 
 python train.py
+
+- Chat with your bot Once trained, launch the chatbot:
+
+- python main.py
+- 🧠 How It Works
+- The bot learns from example conversations in your dataset.
+- It uses basic NLP techniques to match inputs and generate responses.
+- You can customize the training logic or swap in more advanced models later.
+🔧 Customize & Expand
+Want to take it further? Try:
+- Replacing the model with a transformer (e.g., GPT-2 via Hugging Face)
+- Adding a web interface with Flask or Streamlit
+- Connecting to a messaging platform like Telegram or Discord
+- Training on domain-specific data (e.g., customer support, education)
+📌 Notes
+- This project is intentionally lightweight — perfect for experimentation.
+- It’s a great way to learn the basics before diving into larger frameworks.
+- Contributions, feedback, and forks are welcome!
+📄 License
+This project is open-source under the MIT License. Use it, remix it, and share it freely.
+
+If you’d like, I can help you write a CONTRIBUTING guide, a sample dataset format, or even a roadmap for future features like multimodal input. Just say the word!
+
+This project is open-source under the MIT License. Use it, remix it, and share it freely.
+
+
 
