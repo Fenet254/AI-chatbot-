@@ -1,4 +1,6 @@
-🤖 AI Chatbo
+
+
+🤖 AI Chatbot
 Welcome to the AI Chatbot project
 — a simple, flexible chatbot built for learning, experimenting, and evolving. Whether you're just getting started with conversational AI or planning to scale into multimodal territory, this repo gives you a clean foundation to build on.
 🌟 What This Project Is About
